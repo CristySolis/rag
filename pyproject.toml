@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 langchain-core = "^1.6.2"
+pytesseract = "^0.3.13"
 
 
 [build-system]
