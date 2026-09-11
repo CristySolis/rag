@@ -23,6 +23,7 @@ psycopg2-binary = "^2.9.13"
 langchain-text-splitters = "^1.1.2"
 tiktoken = "^0.14.0"
 langchain-experimental = "^0.4.2"
+langchain-openai = "^1.6.2"
 
 
 [build-system]
