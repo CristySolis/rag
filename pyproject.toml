@@ -20,6 +20,9 @@ pinecone-client = "^6.0.0"
 langchain-pinecone = "^0.2.13"
 langchain-postgres = "^0.0.17"
 psycopg2-binary = "^2.9.13"
+langchain-text-splitters = "^1.1.2"
+tiktoken = "^0.14.0"
+langchain-experimental = "^0.4.2"
 
 
 [build-system]
