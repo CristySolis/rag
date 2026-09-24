@@ -1,1 +1,14 @@
+# Environment
 .venv
+.env
+
+# Python caches
+__pycache__/
+.mypy_cache/
+
+# Generated indexes (rebuilt by rag/data_ingestion/ingest.py)
+chroma_db/
+bm25_index.pkl
+
+# Editor
+.vscode/
