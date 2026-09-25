@@ -36,6 +36,9 @@ python-dotenv = "^1.2.3"
 [tool.poetry.group.dev.dependencies]
 debugpy = "^1.8.22"
 
+[tool.poetry.scripts]
+ingest = "rag.capstone.cli:main"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
